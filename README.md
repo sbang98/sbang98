@@ -7,4 +7,4 @@
 sbang98/sbang98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Seunghyun Bang)](https://github.com/****)
+[![Seunghyun Bang's github stats](https://github-readme-stats.vercel.app/api?username=sbang98)](https://github.com/sbang98)
